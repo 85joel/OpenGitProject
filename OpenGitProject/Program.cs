@@ -10,9 +10,10 @@ namespace OpenGitProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is openSource");
-            Console.WriteLine("Do you like it?");
-            Random rand;
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine($"Joel är bääst");
+            }
         }
     }
 }
