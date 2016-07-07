@@ -13,6 +13,7 @@ namespace OpenGitProject
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine($"Joel är bääst");
+                Console.WriteLine("Test");
             }
         }
     }
