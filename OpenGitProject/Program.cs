@@ -11,6 +11,7 @@ namespace OpenGitProject
         static void Main(string[] args)
         {
             Console.WriteLine("This is openSource");
+            Console.WriteLine("Do you like it?");
         }
     }
 }
